@@ -58,7 +58,16 @@
     ],
     "catalogId": "niscala-drapery",
     "variantId": "standard",
-    "attachments": [],
+    "attachments": [
+      {
+        "id": "6cd616e6-eb1c-4f9d-8711-23b98899ac95",
+        "kind": "file",
+        "name": "PHOTO-2026-10-18-18-01-25.jpeg",
+        "url": "/api/attachments/6cd616e6-eb1c-4f9d-8711-23b98899ac95",
+        "size": 396724,
+        "contentType": "image/jpeg"
+      }
+    ],
     "note": "Warna hijau. Tidak make kursi (duduk di bawah aja). Exclude dokmentasi. Dokumentasi pribadi saja. oleh Riski",
     "taskIds": [
       "20ef7e41-3acb-443f-b1e1-39900bcf1ecc"
@@ -220,7 +229,7 @@
       "dueDate": "",
       "done": true,
       "priority": "high",
-      "conclusion": "",
+      "conclusion": "fadel udah bilang tgl 14 Okt 2026\ndiah udah bilang tgl 18 okt 2026\n",
       "id": "283337f7-257c-424d-9983-1296063fcf31"
     },
     {

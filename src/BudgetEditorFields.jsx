@@ -1,4 +1,5 @@
 import { TaskSelector } from "./TaskConnections.jsx";
+import AttachmentEditor from "./Attachments.jsx";
 
 const money = (value) =>
   new Intl.NumberFormat("id-ID", {
@@ -29,6 +30,8 @@ export default function BudgetEditorFields({
   newTask,
   setNewTask,
   owners,
+  onBusyChange,
+  disabled,
 }) {
   const expense = type === "expense";
   const total = expense ? form.quantity * form.unitPrice : Number(form.price);
@@ -201,6 +204,30 @@ export default function BudgetEditorFields({
           draft={newTask}
           onDraftChange={setNewTask}
           owners={owners}
+        />
+      </section>
+      <section className="budget-editor-section budget-editor-attachments">
+        <div className="budget-editor-section-heading">
+          <h3>Lampiran & referensi</h3>
+          <p>
+            Simpan nota, bukti pembayaran, dokumen penawaran, atau tautan vendor.
+          </p>
+        </div>
+        <AttachmentEditor
+          attachments={form.attachments || []}
+          onChange={(update) =>
+            setForm((previous) => ({
+              ...previous,
+              attachments: update(previous.attachments || []),
+            }))
+          }
+          onBusyChange={onBusyChange}
+          linkName={form.linkName || ""}
+          linkUrl={form.linkUrl || ""}
+          onLinkDraft={(linkName, linkUrl) =>
+            setForm((previous) => ({ ...previous, linkName, linkUrl }))
+          }
+          disabled={disabled}
         />
       </section>
     </>

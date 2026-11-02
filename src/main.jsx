@@ -1740,6 +1740,7 @@ const defaults = {
     note: "",
     vendor: "",
     taskIds: [],
+    attachments: [],
   },
   guest: {
     name: "",
@@ -1782,6 +1783,9 @@ function Editor({
             note: data.package.note || "",
             contacts: { ...item.contacts },
             taskIds: [...(data.package.taskIds || [])],
+            attachments: [...(data.package.attachments || [])],
+            linkName: "",
+            linkUrl: "",
           }
         : type === "json"
           ? { source: item.source }
@@ -1790,6 +1794,9 @@ function Editor({
             : {
                 ...defaults[type],
                 ...item,
+                attachments: [...(item?.attachments || [])],
+                linkName: "",
+                linkUrl: "",
                 ...(type === "expense"
                   ? { contacts: { ...item?.contacts } }
                   : {}),
@@ -1897,6 +1904,12 @@ function Editor({
         next.package.note = form.note;
         next.package.contacts = form.contacts;
         next.package.taskIds = budgetForm.taskIds;
+        let attachments = [...(form.attachments || [])];
+        if (form.linkUrl?.trim())
+          attachments.push(createLinkAttachment(form.linkName, form.linkUrl));
+        else if (form.linkName?.trim())
+          throw new Error("Lengkapi alamat tautan sebelum menyimpan.");
+        next.package.attachments = attachments;
       } else if (type === "attachments") {
         let attachments = [...form.attachments];
         if (form.linkUrl.trim())
@@ -1935,7 +1948,20 @@ function Editor({
           timeline: "timeline",
           note: "notes",
         }[type];
-        const record = { ...budgetForm, id: item?.id || createId() };
+        let attachments = form.attachments;
+        if (type === "expense") {
+          attachments = [...(form.attachments || [])];
+          if (form.linkUrl?.trim())
+            attachments.push(createLinkAttachment(form.linkName, form.linkUrl));
+          else if (form.linkName?.trim())
+            throw new Error("Lengkapi alamat tautan sebelum menyimpan.");
+        }
+        const { linkName, linkUrl, ...cleanBudgetForm } = budgetForm;
+        const record = {
+          ...cleanBudgetForm,
+          id: item?.id || createId(),
+          ...(type === "expense" ? { attachments } : {}),
+        };
         if (item)
           next[collection] = next[collection].map((r) =>
             r.id === item.id ? record : r,
@@ -2225,6 +2251,8 @@ function Editor({
               newTask={newTask}
               setNewTask={setNewTask}
               owners={owners}
+              onBusyChange={setUploading}
+              disabled={saving}
             />
           )}
           {type === "json" && (
