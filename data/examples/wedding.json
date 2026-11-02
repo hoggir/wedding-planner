@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "packagePaid": 0,
+  "expenses": [
+    {
+      "id": "catering",
+      "name": "Katering tamu",
+      "category": "Konsumsi",
+      "quantity": 330,
+      "unitPrice": 20000,
+      "paid": 0,
+      "status": "estimate",
+      "note": ""
+    }
+  ],
+  "guests": [],
+  "timeline": [],
+  "notes": [],
+  "wedding": {
+    "partnerOne": "Kamu",
+    "partnerTwo": "Pasanganmu",
+    "date": "",
+    "location": "Di rumah",
+    "guestTarget": 300,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Silver · In home",
+    "vendor": "Nikah Murah Karanganyar",
+    "price": 18500000,
+    "groups": [
+      {
+        "title": "Rias & busana",
+        "items": [
+          "Makeup akad dan resepsi, termasuk retouch",
+          "Sepasang busana akad dan sepasang busana resepsi",
+          "Melati pengantin asli, melati ibu dan besan",
+          "Aksesori lengkap",
+          "Makeup 2 ibu dan jarik",
+          "2 beskap bapak"
+        ]
+      },
+      {
+        "title": "Dekorasi",
+        "items": [
+          "Dekor 6–8 meter dengan tambahan kain",
+          "Set meja dan kursi akad, set kursi pengantin",
+          "Lighting standar",
+          "Nama atau inisial pasangan",
+          "Welcome sign, welcome gate, 2 stand foto",
+          "Panggung"
+        ]
+      },
+      {
+        "title": "Dokumentasi foto",
+        "items": [
+          "Fotografer dan unlimited foto",
+          "112 lembar cetak 4R dan 2 lembar cetak 10R",
+          "1 cetak 12RL beserta figura",
+          "1 album magnetic",
+          "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+        ]
+      },
+      {
+        "title": "Video shooting",
+        "items": [
+          "2–3 kamera dengan kualitas HD 1080",
+          "Live streaming YouTube",
+          "4 TV di lokasi",
+          "Flashdisk hasil dokumentasi"
+        ]
+      },
+      {
+        "title": "Tenda / kajang",
+        "items": [
+          "2 set tenda atau kajang",
+          "Ukuran yang tertulis di brosur: 16 × 24 meter",
+          "Plafon"
+        ]
+      },
+      {
+        "title": "Sound system",
+        "items": [
+          "Durasi 1 hari",
+          "Monitor panggung, speaker aktif, sidefill, dan center",
+          "Genset"
+        ]
+      },
+      {
+        "title": "Panggih, MC & tuwuhan",
+        "items": [
+          "1 panggih manten dan 1 MC pambiworo",
+          "Pisang raja jejer dan kembar mayang",
+          "Janur kuning, kelapa, dan blarak"
+        ]
+      },
+      {
+        "title": "Hiburan",
+        "items": [
+          "Panggung hiburan dan CS ringkes",
+          "Keyboard dan ketipung",
+          "2 penyanyi dan 1 MC hiburan"
+        ]
+      },
+      {
+        "title": "Bonus",
+        "items": [
+          "Makeup 2 penjaga kado",
+          "Busana 2 penjaga kado",
+          "Hand bouquet premium",
+          "Softlens normal dan fake nail art"
+        ]
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "id": "wedding-0",
+      "title": "Pilih paket Silver untuk acara di rumah",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": true,
+      "priority": "high"
+    },
+    {
+      "id": "wedding-1",
+      "title": "Sepakati tanggal pernikahan",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "wedding-2",
+      "title": "Konfirmasi vendor",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "wedding-3",
+      "title": "Tentukan anggaran",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-4",
+      "title": "Susun daftar tamu",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-5",
+      "title": "Pilih katering",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-6",
+      "title": "Survei lokasi",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-7",
+      "title": "Siapkan perlengkapan",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-8",
+      "title": "Urus administrasi",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-9",
+      "title": "Susun rundown",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-10",
+      "title": "Fitting busana",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "wedding-11",
+      "title": "Koordinasi keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "packagePaid": 0,
+  "expenses": [],
+  "guests": [],
+  "timeline": [],
+  "notes": [],
+  "eventType": "wedding",
+  "scenario": "hall",
+  "event": {
+    "partnerOne": "Kamu",
+    "partnerTwo": "Pasanganmu",
+    "date": "",
+    "location": "Di gedung",
+    "guestTarget": 300,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Belum memilih paket gedung",
+    "vendor": "",
+    "price": 0,
+    "groups": []
+  },
+  "tasks": [
+    {
+      "id": "hall-0",
+      "title": "Cari gedung untuk 300 tamu",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-1",
+      "title": "Konfirmasi tanggal gedung",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-2",
+      "title": "Pilih paket gedung",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-3",
+      "title": "Tentukan anggaran",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-4",
+      "title": "Survei fasilitas",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-5",
+      "title": "Periksa kontrak sewa",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-6",
+      "title": "Pilih menu",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-7",
+      "title": "Susun daftar tamu",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-8",
+      "title": "Urus administrasi",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-9",
+      "title": "Fitting busana",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-10",
+      "title": "Susun rundown",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-11",
+      "title": "Bagi tugas keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    }
+  ]
+}

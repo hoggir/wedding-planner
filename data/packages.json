@@ -1,0 +1,2357 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "url": "https://drive.google.com/file/d/1m5O5Q-7PKeZ3nptVrEoHnK5DPVJQfsEC/view?usp=sharing",
+    "vendor": "Nikah Murah Karanganyar",
+    "notes": [
+      "Harga mengikuti brosur, belum dikonfirmasi ke vendor.",
+      "Semua paket bisa ditambah, dikurangi, atau disesuaikan kebutuhan dan anggaran.",
+      "Catatan umum brosur: tanpa acara akad tertulis “-500”. Nilai dan cakupan penyesuaiannya perlu dikonfirmasi, di luar harga varian yang disebutkan secara khusus."
+    ]
+  },
+  "packages": [
+    {
+      "id": "niscala-drapery",
+      "name": "Niscala · Kain Drapery",
+      "vendor": "Niscala Decoration",
+      "contacts": {
+        "whatsapp": "085925827004",
+        "instagram": "https://www.instagram.com/niscala_decoration?dlrf=cGpremR6bWFkNDQ2"
+      },
+      "category": "Lamaran",
+      "price": 600000,
+      "sourcePage": null,
+      "source": {
+        "kind": "image",
+        "url": "/vendors/niscala-kain-drapery.jpg",
+        "title": "Flyer Niscala Decoration · Kain Drapery",
+        "notes": [
+          "Harga dan fasilitas mengikuti flyer Niscala Decoration yang diberikan.",
+          "Konfirmasikan tanggal dan biaya pengiriman ke vendor."
+        ]
+      },
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Dekorasi kain drapery",
+          "items": [
+            "Ukuran dekorasi 3 × 3 meter",
+            "Bunga dan daun artificial",
+            "Hand bouquet",
+            "Nama pasangan (couple name)",
+            "Lighting",
+            "Sepasang kursi"
+          ]
+        },
+        {
+          "title": "Pilihan warna",
+          "items": [
+            "Warna kain: merah maroon, emerald, atau putih",
+            "Warna bunga boleh dipilih"
+          ]
+        }
+      ],
+      "notes": [
+        "Harga Rp600.000 belum termasuk ongkir.",
+        "Paket dekorasi; rias, dokumentasi foto/video, dan katering tidak tercantum pada flyer."
+      ],
+      "variants": []
+    },
+    {
+      "id": "niscala-plywood",
+      "name": "Niscala · Decor Papan Plywood",
+      "vendor": "Niscala Decoration",
+      "contacts": {
+        "whatsapp": "085925827004",
+        "instagram": "https://www.instagram.com/niscala_decoration?dlrf=cGpremR6bWFkNDQ2"
+      },
+      "category": "Lamaran",
+      "price": 850000,
+      "sourcePage": null,
+      "source": {
+        "kind": "image",
+        "url": "/vendors/niscala-papan-plywood.jpg",
+        "title": "Flyer Niscala Decoration · Decor Papan Plywood",
+        "notes": [
+          "Harga dan fasilitas mengikuti flyer Niscala Decoration yang diberikan.",
+          "Konfirmasikan tanggal dan biaya pengiriman ke vendor."
+        ]
+      },
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Dekorasi papan plywood",
+          "items": [
+            "Panjang papan 2,4 meter",
+            "Bunga dan daun artificial",
+            "Hand bouquet",
+            "Nama pasangan (couple name)",
+            "Lighting",
+            "Sepasang kursi"
+          ]
+        },
+        {
+          "title": "Pilihan model & warna",
+          "items": ["Model papan bisa direquest", "Warna bunga boleh dipilih"]
+        }
+      ],
+      "notes": [
+        "Harga Rp850.000 belum termasuk ongkir.",
+        "Paket dekorasi; rias, dokumentasi foto/video, dan katering tidak tercantum pada flyer."
+      ],
+      "variants": []
+    },
+    {
+      "id": "engagement",
+      "name": "Engagement",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Lamaran",
+      "price": 1499000,
+      "sourcePage": 3,
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias",
+          "items": [
+            "Makeup dan bulu mata palsu",
+            "Gratis hijab do dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "1 fotografer, unlimited shot",
+            "Seluruh file editing",
+            "Seluruh file melalui Google Drive"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekorasi 2,5–3 meter",
+            "Bunga artificial",
+            "2 kursi Tiffany",
+            "Karpet dan lighting",
+            "Penutup tembok, papan nama, dan inisial nama pada dekor",
+            "2 standing bunga"
+          ]
+        }
+      ],
+      "notes": [
+        "Paket lamaran; tidak mencantumkan fasilitas akad atau resepsi."
+      ],
+      "variants": []
+    },
+    {
+      "id": "akad",
+      "name": "Akad",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Akad & resepsi",
+      "price": 5500000,
+      "sourcePage": 4,
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup pengantin",
+            "Sepasang busana akad dan aksesori lengkap",
+            "Gratis makeup 1 ibu",
+            "Melati pengantin asli",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 3–4 meter dan tambahan kain",
+            "Bunga artificial",
+            "Set kursi pengantin",
+            "Lighting standar",
+            "Inisial nama, papan nama, dan karpet"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Unlimited foto",
+            "80 foto cetak 4R dan 80 file edit",
+            "1 album magnetic",
+            "Seluruh file melalui Google Drive dan flashdisk 16 GB"
+          ]
+        }
+      ],
+      "notes": [
+        "Panggung dan set akad bunga segar tercantum sebagai tambahan berbayar."
+      ],
+      "variants": [],
+      "originalPrice": 6000000
+    },
+    {
+      "id": "akad-resepsi",
+      "name": "Akad & resepsi",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Akad & resepsi",
+      "price": 9500000,
+      "sourcePage": 5,
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi, termasuk retouch",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik",
+            "2 beskap bapak",
+            "Makeup dan busana 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art",
+            "Juru pratitis"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 6–8 meter dengan tambahan kain",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Nama atau inisial pasangan",
+            "Welcome sign, welcome gate, 2 stand foto",
+            "Panggung"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        }
+      ],
+      "notes": [
+        "Tenda, konsumsi, sound system, hiburan, dan video tidak tercantum pada halaman paket ini."
+      ],
+      "variants": []
+    },
+    {
+      "id": "ngunduh-mantu",
+      "name": "Ngunduh mantu",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Akad & resepsi",
+      "price": 8500000,
+      "sourcePage": 6,
+      "location": "",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup ngunduh mantu dan sepasang busana pengantin",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup dan busana 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art",
+            "Juru pratitis"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 6–8 meter dan tambahan kain",
+            "Set kursi pengantin dan lighting standar",
+            "Nama atau inisial pasangan",
+            "Welcome sign, welcome gate, 2 stand foto",
+            "Panggung"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "silver",
+      "name": "Silver · In home",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Di rumah",
+      "price": 18500000,
+      "sourcePage": 7,
+      "location": "Di rumah",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi, termasuk retouch",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik",
+            "2 beskap bapak"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 6–8 meter dengan tambahan kain",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Nama atau inisial pasangan",
+            "Welcome sign, welcome gate, 2 stand foto",
+            "Panggung"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tenda / kajang",
+          "items": [
+            "2 set tenda atau kajang",
+            "Ukuran yang tertulis di brosur: 16 × 24 meter",
+            "Plafon"
+          ]
+        },
+        {
+          "title": "Sound system",
+          "items": [
+            "Durasi 1 hari",
+            "Monitor panggung, speaker aktif, sidefill, dan center",
+            "Genset"
+          ]
+        },
+        {
+          "title": "Panggih, MC & tuwuhan",
+          "items": [
+            "1 panggih manten dan 1 MC pambiworo",
+            "Pisang raja jejer dan kembar mayang",
+            "Janur kuning, kelapa, dan blarak"
+          ]
+        },
+        {
+          "title": "Hiburan",
+          "items": [
+            "Panggung hiburan dan CS ringkes",
+            "Keyboard dan ketipung",
+            "2 penyanyi dan 1 MC hiburan"
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            "Makeup 2 penjaga kado",
+            "Busana 2 penjaga kado",
+            "Hand bouquet premium",
+            "Softlens normal dan fake nail art"
+          ]
+        }
+      ],
+      "notes": [
+        "Katering, WO, kursi dan meja tamu tidak tercantum pada halaman paket ini. Kebutuhan tambahan perlu dikonfirmasi.",
+        "Ukuran dan pembagian 2 set tenda perlu dikonfirmasi.",
+        "Video cinematic tidak tercantum dalam paket Silver."
+      ],
+      "variants": [],
+      "originalPrice": 23500000
+    },
+    {
+      "id": "gold",
+      "name": "Gold · In home",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Di rumah",
+      "price": 23500000,
+      "sourcePage": 8,
+      "location": "Di rumah",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi, termasuk retouch",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik",
+            "2 beskap bapak"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 6–8 meter dengan tambahan kain",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Nama atau inisial pasangan",
+            "Welcome sign, welcome gate, 2 stand foto",
+            "Panggung"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tenda / kajang",
+          "items": [
+            "3 set tenda atau kajang",
+            "Ukuran 8 × 12 meter sebanyak 3 set",
+            "Plafon"
+          ]
+        },
+        {
+          "title": "Sound system",
+          "items": [
+            "Durasi 1 hari 1 malam",
+            "Sub 4 per sayap",
+            "Monitor panggung, speaker aktif, dan center",
+            "Genset"
+          ]
+        },
+        {
+          "title": "Panggih, MC & tuwuhan",
+          "items": [
+            "1 panggih manten dan 1 MC pambiworo",
+            "Pisang raja jejer dan kembar mayang",
+            "Janur kuning, kelapa, dan blarak"
+          ]
+        },
+        {
+          "title": "Hiburan",
+          "items": [
+            "Panggung",
+            "Keyboard, kendang, ketipung, gitar, dan drum",
+            "1 sinden, 2 penyanyi, dan MC"
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium",
+            "Softlens normal dan fake nail art"
+          ]
+        }
+      ],
+      "notes": [
+        "Katering, WO, kursi dan meja tamu tidak tercantum pada halaman paket ini. Kebutuhan tambahan perlu dikonfirmasi."
+      ],
+      "variants": [],
+      "originalPrice": 28500000
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum · In home",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Di rumah",
+      "price": 28500000,
+      "sourcePage": 9,
+      "location": "Di rumah",
+      "capacity": null,
+      "cateringPax": null,
+      "includesCatering": false,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi, termasuk retouch",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik",
+            "2 beskap bapak"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 6–8 meter dengan tambahan kain",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Nama atau inisial pasangan",
+            "Welcome sign, welcome gate, 2 stand foto",
+            "Panggung"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Dokumentasi midodareni dan resepsi",
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "Dokumentasi midodareni dan resepsi",
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tenda / kajang",
+          "items": [
+            "4 set tenda atau kajang",
+            "Ukuran 8 × 12 meter sebanyak 4 set",
+            "Plafon dan panggung hiburan"
+          ]
+        },
+        {
+          "title": "Sound system",
+          "items": [
+            "Durasi 1 hari 1 malam",
+            "Full set gantung dan sub 6 per sayap",
+            "Monitor panggung, speaker aktif, dan center",
+            "Genset"
+          ]
+        },
+        {
+          "title": "Panggih, MC & tuwuhan",
+          "items": [
+            "1 panggih manten dan 1 MC pambiworo",
+            "Pisang raja jejer dan kembar mayang",
+            "Janur kuning, kelapa, dan blarak"
+          ]
+        },
+        {
+          "title": "Hiburan",
+          "items": [
+            "Untuk midodareni dan resepsi",
+            "Keyboard, kendang, ketipung, gitar, dan drum",
+            "1 sinden, 2 penyanyi, dan MC"
+          ]
+        },
+        {
+          "title": "Bonus",
+          "items": [
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium",
+            "Softlens normal dan fake nail art"
+          ]
+        }
+      ],
+      "notes": [
+        "Katering, WO, kursi dan meja tamu tidak tercantum pada halaman paket ini. Kebutuhan tambahan perlu dikonfirmasi."
+      ],
+      "variants": [],
+      "originalPrice": 33500000
+    },
+    {
+      "id": "masjid-madaniyah",
+      "name": "Duduk Manis · Masjid Madaniyah Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 44500000,
+      "sourcePage": 10,
+      "location": "Masjid Madaniyah Karanganyar",
+      "capacity": 500,
+      "cateringPax": 500,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Masjid Madaniyah Karanganyar",
+            "500 kursi tamu",
+            "50 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "500 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": [
+        {
+          "id": "without-akad",
+          "label": "Tanpa akad",
+          "price": 43500000,
+          "note": "Brosur mencantumkan harga tanpa akad, tetapi tidak merinci perubahan fasilitasnya. Fasilitas di bawah adalah rincian paket dasar; layanan terkait akad perlu dikonfirmasi."
+        }
+      ]
+    },
+    {
+      "id": "taman-sari",
+      "name": "Duduk Manis · Taman Sari Hotel Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 44500000,
+      "sourcePage": 11,
+      "location": "Taman Sari Hotel Karanganyar",
+      "capacity": 600,
+      "cateringPax": 600,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Taman Sari Hotel Karanganyar",
+            "600 kursi tamu",
+            "60 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "600 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "permata-sari",
+      "name": "Duduk Manis · Permata Sari Hotel Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 56500000,
+      "sourcePage": 12,
+      "location": "Permata Sari Hotel Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Permata Sari Hotel Karanganyar",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "graha-pgri",
+      "name": "Duduk Manis · Graha PGRI Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 56500000,
+      "sourcePage": 13,
+      "location": "Graha PGRI Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Graha PGRI Karanganyar",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "gedung-wanita",
+      "name": "Duduk Manis · Gedung Wanita Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 67500000,
+      "sourcePage": 14,
+      "location": "Gedung Wanita Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 500,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Gedung Wanita Karanganyar",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "500 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [
+        "Judul paket menyebut 1.000 pax, tetapi bagian katering tertulis 500 pax. Jumlah konsumsi perlu dikonfirmasi ke vendor."
+      ],
+      "variants": []
+    },
+    {
+      "id": "aeromax",
+      "name": "Duduk Manis · Aeromax Studio Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 60500000,
+      "sourcePage": 15,
+      "location": "Aeromax Studio Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Aeromax Studio Karanganyar",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "mcc",
+      "name": "Duduk Manis · Gedung MCC Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 65500000,
+      "sourcePage": 16,
+      "location": "Gedung MCC Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Masjid Madaniyah Karanganyar (tertulis pada bagian venue; perlu konfirmasi)",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [
+        "Judul halaman menyebut Gedung MCC, tetapi bagian venue tertulis Masjid Madaniyah Karanganyar. Pastikan nama dan lokasi venue sebelum booking."
+      ],
+      "variants": [
+        {
+          "id": "weekday",
+          "label": "Senin–Kamis",
+          "price": 60500000,
+          "note": "Harga khusus Senin–Kamis yang tercantum di brosur."
+        }
+      ]
+    },
+    {
+      "id": "gedung-dakwah",
+      "name": "Duduk Manis · Gedung Dakwah Muhammadiyah Karanganyar",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 54500000,
+      "sourcePage": 17,
+      "location": "Gedung Dakwah Muhammadiyah Karanganyar",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Gedung Dakwah Muhammadiyah Karanganyar",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "diponegoro",
+      "name": "Duduk Manis · Gedung Diponegoro",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 41500000,
+      "sourcePage": 18,
+      "location": "Gedung Diponegoro",
+      "capacity": 500,
+      "cateringPax": 500,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Gedung Diponegoro",
+            "500 kursi tamu",
+            "50 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "500 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "al-irsyad",
+      "name": "Duduk Manis · Gedung Al-Irsyad",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 44500000,
+      "sourcePage": 19,
+      "location": "Gedung Al-Irsyad",
+      "capacity": 600,
+      "cateringPax": 600,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Gedung Al-Irsyad",
+            "600 kursi tamu",
+            "60 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "600 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "masjid-fatimah",
+      "name": "Duduk Manis · Masjid Raya Fatimah",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 39500000,
+      "sourcePage": 20,
+      "location": "Masjid Raya Fatimah",
+      "capacity": 400,
+      "cateringPax": 400,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Masjid Raya Fatimah",
+            "400 kursi tamu",
+            "40 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "400 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "pms",
+      "name": "Duduk Manis · Gedung PMS",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 54500000,
+      "sourcePage": 21,
+      "location": "Gedung PMS",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Gedung PMS",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "de-lawang",
+      "name": "Duduk Manis · De Lawang Djoenjing",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 58500000,
+      "sourcePage": 22,
+      "location": "De Lawang Djoenjing",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "De Lawang Djoenjing",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": [
+            "Sound system dan keyboard",
+            "Ketipung / saxophone",
+            "2 penyanyi dan MC hiburan"
+          ]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "tbjt",
+      "name": "Duduk Manis · Taman Budaya Jawa Tengah",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Dengan venue",
+      "price": 55500000,
+      "sourcePage": 23,
+      "location": "Taman Budaya Jawa Tengah",
+      "capacity": 1000,
+      "cateringPax": 1000,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Venue & perlengkapan",
+          "items": [
+            "Taman Budaya Jawa Tengah",
+            "1.000 kursi tamu",
+            "100 meja tamu",
+            "Meja penerima tamu, kotak sumbangan, dan ruang rias"
+          ]
+        },
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "1.000 pax sesuai bagian katering di brosur",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video cinematic",
+          "items": ["Videografer", "Video cinematic 1–2 menit"]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Wedding organizer",
+          "items": [
+            "5–7 kru",
+            "Organizer acara dan penyusunan rundown",
+            "Konsultasi tatap muka",
+            "Technical meeting / kumborkanan",
+            "Morning call calon pengantin dan MUA"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": ["Sound system dan keyboard", "2 penyanyi dan MC hiburan"]
+        },
+        {
+          "title": "Wedding content creator",
+          "items": [
+            "Unlimited konten TikTok dan raw video",
+            "Real time Instagram Story",
+            "1 video Reels edit dan 1 cinematic, masing-masing tertulis 60' di brosur; durasi perlu dikonfirmasi"
+          ]
+        }
+      ],
+      "notes": [],
+      "variants": []
+    },
+    {
+      "id": "hemat-gedung",
+      "name": "Hemat All In Gedung · Tanpa venue & WO",
+      "vendor": "Nikah Murah Karanganyar",
+      "category": "Tanpa venue",
+      "price": 30000000,
+      "sourcePage": 24,
+      "location": "",
+      "capacity": 500,
+      "cateringPax": 500,
+      "includesCatering": true,
+      "groups": [
+        {
+          "title": "Rias & busana",
+          "items": [
+            "Makeup akad dan resepsi",
+            "Sepasang busana akad dan sepasang busana resepsi",
+            "Melati pengantin asli, melati ibu dan besan",
+            "Aksesori lengkap",
+            "Makeup 2 ibu dan jarik, 2 beskap bapak",
+            "Makeup 2 penjaga kado",
+            "Hand bouquet premium, softlens normal, dan fake nail art"
+          ]
+        },
+        {
+          "title": "Dekorasi",
+          "items": [
+            "Dekor 8–10 meter",
+            "Bunga mix artificial",
+            "Set meja dan kursi akad, set kursi pengantin",
+            "Lighting standar",
+            "Welcome gate dan welcome sign",
+            "Bunga jalan, karpet jalan, dan stand foto"
+          ]
+        },
+        {
+          "title": "Dokumentasi foto",
+          "items": [
+            "Fotografer dan unlimited foto",
+            "112 lembar cetak 4R dan 2 lembar cetak 10R",
+            "1 cetak 12RL beserta figura",
+            "1 album magnetic",
+            "Seluruh file edit, flashdisk 16 GB, dan tautan Google Drive"
+          ]
+        },
+        {
+          "title": "Video shooting",
+          "items": [
+            "2–3 kamera dengan kualitas HD 1080",
+            "Live streaming YouTube",
+            "4 TV di lokasi",
+            "Flashdisk hasil dokumentasi"
+          ]
+        },
+        {
+          "title": "Panggih & MC",
+          "items": ["1 panggih manten", "1 MC protokol"]
+        },
+        {
+          "title": "Tuwuhan",
+          "items": [
+            "2 pisang raja",
+            "Kembar mayang, kelapa kuning, dan janur kuning"
+          ]
+        },
+        {
+          "title": "Katering",
+          "items": [
+            "500 pax",
+            "Teh, snack asin dan manis",
+            "Sop galantin dan nasi racikan",
+            "Es krim / es kopyor",
+            "Tim laden dan alat saji"
+          ]
+        },
+        {
+          "title": "Hiburan & sound",
+          "items": ["Sound system dan keyboard", "2 penyanyi dan MC hiburan"]
+        }
+      ],
+      "notes": [
+        "Venue dan WO tidak termasuk, sesuai judul paket.",
+        "Video cinematic dan WCC tidak tercantum pada halaman paket ini."
+      ],
+      "variants": []
+    }
+  ]
+}

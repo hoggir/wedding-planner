@@ -1,0 +1,9 @@
+dist
+node_modules
+data/backups
+data/uploads
+data/wedding.json
+data/lamaran.json
+data/wedding-gedung.json
+test-results
+package-lock.json

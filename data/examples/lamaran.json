@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "packagePaid": 0,
+  "expenses": [],
+  "guests": [],
+  "timeline": [],
+  "notes": [],
+  "eventType": "engagement",
+  "event": {
+    "partnerOne": "Kamu",
+    "partnerTwo": "Pasanganmu",
+    "date": "",
+    "location": "",
+    "guestTarget": 0,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Belum memilih paket lamaran",
+    "vendor": "",
+    "price": 0,
+    "groups": []
+  },
+  "tasks": [
+    {
+      "id": "engagement-0",
+      "title": "Sepakati tanggal lamaran dengan kedua keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "engagement-1",
+      "title": "Tentukan lokasi lamaran",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "engagement-2",
+      "title": "Tentukan anggaran lamaran",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "engagement-3",
+      "title": "Susun prosesi lamaran",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-4",
+      "title": "Siapkan cincin",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-5",
+      "title": "Pilih busana",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-6",
+      "title": "Pilih dekorasi",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-7",
+      "title": "Tentukan konsumsi",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-8",
+      "title": "Undang keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "engagement-9",
+      "title": "Bagi tugas acara",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    }
+  ]
+}
