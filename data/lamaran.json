@@ -59,7 +59,7 @@
     "catalogId": "niscala-drapery",
     "variantId": "standard",
     "attachments": [],
-    "note": "Kain putih. Exclude dokmentasi. Dokumentasi pribadi saja. oleh Riski",
+    "note": "Warna hijau. Tidak make kursi (duduk di bawah aja). Exclude dokmentasi. Dokumentasi pribadi saja. oleh Riski",
     "taskIds": [
       "20ef7e41-3acb-443f-b1e1-39900bcf1ecc"
     ]
@@ -70,7 +70,7 @@
       "name": "Cincin lamaran",
       "category": "Seserahan",
       "quantity": 1,
-      "unitPrice": 1200000,
+      "unitPrice": 1900000,
       "paid": 0,
       "status": "estimate",
       "note": "Masih contoh nanti di ganti dan belinya offline",
@@ -79,7 +79,7 @@
         "2f44a6c8-059c-449e-adf2-a49160d26621"
       ],
       "contacts": {
-        "link": "https://s.shopee.co.id/9zyzH8UJkb"
+        "link": "https://shop-id.tokopedia.com/view/product/1736961660668249423?_d=f3clma1adjhd0m&_svg=1&chain_key=%7B%22cck%22%3A%22KVfRX5ckhSC+qFAIseUF93Q2mfH2C133gsotYbZEETALoOYLNJ8M6TqHyVGqHiFbBx1oopnKtLjzgKMyKtv1ncB49GT6bL1Lpf%2FKSg%3D%3D%22%2C%22mck%22%3A%22rWmfFwHa3z%2FBcKL1ac1L+Q2n9GTx1a9Jz7CuI7r+lwRcBhxJytUTmbs0emopH51HQQYiYW4HMMVm+n0Du5%2FhjSOU8Ep7JrK6DTYe0A%3D%3D%22%2C%22v%22%3A1%7D&checksum=2bd886a0d3b4b00d179fb7e960d25b2e99519467552e29ae03a7d46c9d5bd667&crm_scenario=cGRwX3NoYXJlXzY4MDA2OTkzNzAwNTc1OTc5NTQ%3D&crm_type=share&ec_search_share_params=%7B%22product_id%22%3A%221736961660668249423%22%2C%22req_id%22%3A%229E3AF0B4-783D-4342-B5E0-0AD189B749F6%22%2C%22group_id%22%3A%221736961660668249423%22%2C%22token_type%22%3A%22product_card%22%2C%22enter_from%22%3A%22mall%22%2C%22share_material_id%22%3A%221736961660668249423%22%2C%22share_material%22%3A%22product_card%22%7D&encode_params=MIIBUwQMipUgoVePlbgXx6uFBIIBL3dhEo5gnRFHvQaNTnrzXUJAzgyDkfTgvYIamSaZsu-BKIywK4vXBDGGB32h89mYljwd5Sgf5jv9E-ETNHhf4wOhudKes9RTM0vZoyjTnMYdrPSzsT3BzRljLYKM4zwbcX-z-AutbGfRziWXToVpu1rAJPwA39UrImW19SGgF1h0KqBLyFcTZGbhlPj_R3B-PTvJBkUW2neNZnxKpAK7dZs_klz_63wepJ3v2qKSrM8JN7eque8sdqmFrhWj9J7KWnmldlEigQalZOZh7XDbHvEMiU_H48Pw5BYLbF2WgRLwx9us8xlkW9RtNLuR2o7jzfd2BSHR3Sxu0-RysVKzUrqs98_HJz6LTh6On6sd1fGzQFk8F3nMeRT2l7TPEiFYbgU9o5K_gmcl4EOzAfn9qQQQbvK1vpumQJgrKrHk1febKw%3D%3D&og_info=%7B%22title%22%3A%22Cincin+Emas+Levina+Marquise+White+Gold+10K+Semar+Nusantara+-+Limited+Edition%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F90066b64b06b459998297b07d138c507~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&panel_source_v2=share_panel&sec_user_id=MS4wLjABAAAAMAY18nzAfN-_E2Ufy8erN2998SHePr6sdZXAVm04RB_wQvfk-6GgpFly0ujt_kVd&share_app_id=1180&share_enter_from=&share_link_id=59CC8A05-89F6-4119-BD33-F6EA0FBE8551&share_region=ID&social_share_type=15&time"
       },
       "id": "35032280-312f-4b2e-96c0-683e463fc24a"
     },
@@ -133,18 +133,20 @@
       "id": "232ab47c-9db4-452a-85e0-40f1a947ab94"
     },
     {
-      "name": "Seserahan / hantaran",
+      "name": "Hantaran (Berupa makanan)",
       "category": "Seserahan",
       "quantity": 1,
-      "unitPrice": 1200000,
+      "unitPrice": 700000,
       "paid": 0,
       "status": "estimate",
-      "note": "",
-      "vendor": "",
+      "note": "Masih belum ada kopi kopiannya",
+      "vendor": "COISE",
       "taskIds": [
         "77a04d54-dd7c-4707-bdc1-45f82e5f09c2"
       ],
-      "contacts": {},
+      "contacts": {
+        "instagram": "https://www.instagram.com/snackboxmurah.solo"
+      },
       "id": "4b27ec06-d7f9-4f34-90a4-e799c961dc92"
     },
     {
@@ -267,7 +269,7 @@
       "dueDate": "",
       "done": false,
       "priority": "normal",
-      "conclusion": "Beli setelah tanggal 25. nunggu gajian",
+      "conclusion": "Berupa makanan, untuk kopi dan teh masih belum ada",
       "id": "77a04d54-dd7c-4707-bdc1-45f82e5f09c2"
     },
     {

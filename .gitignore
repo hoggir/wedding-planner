@@ -9,3 +9,6 @@ playwright-report/
 .env.*
 .DS_Store
 *.tmp
+run.sh
+*.sh
+
