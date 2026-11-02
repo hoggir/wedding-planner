@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "eventType": "engagement",
+  "event": {
+    "partnerOne": "Fadel",
+    "partnerTwo": "Diah",
+    "date": "2026-12-27",
+    "location": "Rumah Diah",
+    "guestTarget": 50,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Niscala · Kain Drapery",
+    "vendor": "Niscala Decoration",
+    "contacts": {
+      "whatsapp": "085925827004",
+      "instagram": "https://www.instagram.com/niscala_decoration?dlrf=cGpremR6bWFkNDQ2"
+    },
+    "category": "Lamaran",
+    "price": 600000,
+    "sourcePage": null,
+    "source": {
+      "kind": "image",
+      "url": "/vendors/niscala-kain-drapery.jpg",
+      "title": "Flyer Niscala Decoration · Kain Drapery",
+      "notes": [
+        "Harga dan fasilitas mengikuti flyer Niscala Decoration yang diberikan.",
+        "Konfirmasikan tanggal dan biaya pengiriman ke vendor."
+      ]
+    },
+    "location": "",
+    "capacity": null,
+    "cateringPax": null,
+    "includesCatering": false,
+    "groups": [
+      {
+        "title": "Dekorasi kain drapery",
+        "items": [
+          "Ukuran dekorasi 3 × 3 meter",
+          "Bunga dan daun artificial",
+          "Hand bouquet",
+          "Nama pasangan (couple name)",
+          "Lighting",
+          "Sepasang kursi"
+        ]
+      },
+      {
+        "title": "Pilihan warna",
+        "items": [
+          "Warna kain: merah maroon, emerald, atau putih",
+          "Warna bunga boleh dipilih"
+        ]
+      }
+    ],
+    "notes": [
+      "Harga Rp600.000 belum termasuk ongkir.",
+      "Paket dekorasi; rias, dokumentasi foto/video, dan katering tidak tercantum pada flyer."
+    ],
+    "catalogId": "niscala-drapery",
+    "variantId": "standard",
+    "attachments": [],
+    "note": "Kain putih. Exclude dokmentasi. Dokumentasi pribadi saja. oleh Riski",
+    "taskIds": [
+      "20ef7e41-3acb-443f-b1e1-39900bcf1ecc"
+    ]
+  },
+  "packagePaid": 0,
+  "expenses": [
+    {
+      "name": "Cincin lamaran",
+      "category": "Seserahan",
+      "quantity": 1,
+      "unitPrice": 1200000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Masih contoh nanti di ganti dan belinya offline",
+      "vendor": "Toko Emas",
+      "taskIds": [
+        "2f44a6c8-059c-449e-adf2-a49160d26621"
+      ],
+      "contacts": {
+        "link": "https://s.shopee.co.id/9zyzH8UJkb"
+      },
+      "id": "35032280-312f-4b2e-96c0-683e463fc24a"
+    },
+    {
+      "name": "Makeup wanita",
+      "category": "Penampilan",
+      "quantity": 1,
+      "unitPrice": 500000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Mau cari vendor makeup atau make up sendiri?",
+      "vendor": "",
+      "contacts": {},
+      "id": "a3574ec3-2df6-4485-a69f-aa28dac7e31c"
+    },
+    {
+      "name": "Makanan utama",
+      "category": "Konsumsi",
+      "quantity": 55,
+      "unitPrice": 30000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Masih belum tau cari katering atau masak sendiri",
+      "vendor": "",
+      "taskIds": [],
+      "contacts": {},
+      "id": "dfe02c93-f713-4823-9c85-72cc4aef28ac"
+    },
+    {
+      "name": "Snack",
+      "category": "Konsumsi",
+      "quantity": 50,
+      "unitPrice": 15000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "",
+      "vendor": "",
+      "contacts": {},
+      "id": "426b0f08-2de0-4c6c-9917-98fdf84cd5eb"
+    },
+    {
+      "name": "Minuman tambahan",
+      "category": "Konsumsi",
+      "quantity": 1,
+      "unitPrice": 150000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Aqua? tapi katanya mau bikin infused water sendiri",
+      "vendor": "",
+      "contacts": {},
+      "id": "232ab47c-9db4-452a-85e0-40f1a947ab94"
+    },
+    {
+      "name": "Seserahan / hantaran",
+      "category": "Seserahan",
+      "quantity": 1,
+      "unitPrice": 1200000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "",
+      "vendor": "",
+      "taskIds": [
+        "77a04d54-dd7c-4707-bdc1-45f82e5f09c2"
+      ],
+      "contacts": {},
+      "id": "4b27ec06-d7f9-4f34-90a4-e799c961dc92"
+    },
+    {
+      "name": "Busana calon pria dan wanita",
+      "category": "Penampilan",
+      "quantity": 1,
+      "unitPrice": 600000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Beli dulu",
+      "vendor": "",
+      "taskIds": [
+        "a34b8f54-8956-49ab-9048-0be51e8f6419"
+      ],
+      "contacts": {},
+      "id": "d4d52f65-eef6-4fea-812b-4bd30cf7c398"
+    },
+    {
+      "name": "Dana cadangan",
+      "category": "Perlengkapan",
+      "quantity": 1,
+      "unitPrice": 500000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "",
+      "vendor": "",
+      "contacts": {},
+      "id": "ccaf095b-007d-476b-850d-c3a561b8f0f8"
+    },
+    {
+      "name": "Tiket Kereta PP",
+      "category": "Transportasi",
+      "quantity": 4,
+      "unitPrice": 480000,
+      "paid": 0,
+      "status": "confirmed",
+      "note": "Kereta pasar senen solo balapan PP 2 PAX",
+      "vendor": "",
+      "taskIds": [
+        "7d56d4d7-cdd2-42db-920a-1a93b7826fde"
+      ],
+      "contacts": {},
+      "id": "99450326-4578-4549-8eb8-57f7e8f5403c"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Sepakati tanggal lamaran dengan kedua keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "2026-12-27",
+      "done": true,
+      "priority": "high",
+      "id": "engagement-date"
+    },
+    {
+      "title": "Tentukan lokasi",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": true,
+      "priority": "high",
+      "conclusion": "Rumah diah",
+      "id": "engagement-location"
+    },
+    {
+      "title": "Lapor ke orang tua (TIDAK RESMI)",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": true,
+      "priority": "high",
+      "conclusion": "",
+      "id": "283337f7-257c-424d-9983-1296063fcf31"
+    },
+    {
+      "title": "Lapor ke orang tua resmi lewat telpon dulu",
+      "category": "Acara",
+      "owner": "Fadel",
+      "dueDate": "2026-11-07",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "",
+      "id": "019d10d4-1ee1-45e2-a848-075c58f4d6db"
+    },
+    {
+      "title": "Lamaran sendiri belum dengan keluarga",
+      "category": "Acara",
+      "owner": "Fadel",
+      "dueDate": "2026-12-20",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "",
+      "id": "895e54ae-99fb-4bd7-ad2e-9bfe0b7a2b18"
+    },
+    {
+      "title": "Booking dan DP vendor dekorasi untuk lamaran",
+      "category": "Vendor",
+      "owner": "Bersama",
+      "dueDate": "2026-11-27",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "Minimal cari Dekor dan DP dekor H-30",
+      "id": "20ef7e41-3acb-443f-b1e1-39900bcf1ecc"
+    },
+    {
+      "title": "Siapkan Cincin lamaran",
+      "category": "Seserahan",
+      "owner": "Bersama",
+      "dueDate": "2026-11-28",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "Habis gajian baru beli cincin. belinya offline",
+      "id": "2f44a6c8-059c-449e-adf2-a49160d26621"
+    },
+    {
+      "title": "Seserahanya apa saja dan kapan belinya?",
+      "category": "Seserahan",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "Beli setelah tanggal 25. nunggu gajian",
+      "id": "77a04d54-dd7c-4707-bdc1-45f82e5f09c2"
+    },
+    {
+      "title": "Siapkan Busana calon pria dan wanita",
+      "category": "Penampilan",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "Nunggu tanggal 25 belinya bareng sama beli cincin. sekali jalan saja",
+      "id": "a34b8f54-8956-49ab-9048-0be51e8f6419"
+    },
+    {
+      "title": "Siapkan Tiket Kereta PP!",
+      "category": "Transportasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal",
+      "conclusion": "Pesen H-30 sebelum berangkat. Renaca Fadel ke solo tanggal 19, balik jakarta tanggal 28.",
+      "id": "7d56d4d7-cdd2-42db-920a-1a93b7826fde"
+    }
+  ],
+  "guests": [],
+  "timeline": [],
+  "notes": [
+    {
+      "id": "engagement-package",
+      "title": "Pilihan paket dari brosur",
+      "body": "Paket Engagement dari Nikah Murah Karanganyar mencantumkan rias, foto, dan dekorasi. Pilih melalui Paket & vendor bila sesuai kebutuhan. Konsumsi, cincin, dan seserahan tidak tercantum dalam paket tersebut.",
+      "author": "Bersama"
+    },
+    {
+      "id": "engagement-family",
+      "title": "Untuk dibahas bersama keluarga",
+      "body": "Catat kesepakatan tentang prosesi, perwakilan bicara, barang bawaan, dan pembagian peran sebelum menyusun rundown final.",
+      "author": "Bersama"
+    },
+    {
+      "title": "PESAN UTAMA",
+      "body": "Jangan marah marah terus yaa",
+      "author": "Fadel",
+      "id": "30c2cbe4-d83a-429f-b132-6ba6f8e3710e"
+    }
+  ]
+}

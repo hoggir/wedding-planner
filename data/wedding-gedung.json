@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "eventType": "wedding",
+  "scenario": "hall",
+  "event": {
+    "partnerOne": "Kamu",
+    "partnerTwo": "Pasanganmu",
+    "date": "",
+    "location": "Di gedung",
+    "guestTarget": 300,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Belum memilih paket gedung",
+    "vendor": "",
+    "price": 0,
+    "groups": []
+  },
+  "packagePaid": 0,
+  "expenses": [],
+  "tasks": [
+    {
+      "id": "hall-venue",
+      "title": "Cari gedung yang sesuai dengan perkiraan 300 tamu",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-date",
+      "title": "Konfirmasi tanggal dan ketersediaan gedung",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-package",
+      "title": "Bandingkan dan pilih paket pernikahan di gedung",
+      "category": "Vendor",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-budget",
+      "title": "Tentukan batas anggaran skenario gedung",
+      "category": "Anggaran",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "hall-survey",
+      "title": "Survei akses, parkir, ruang rias, dan fasilitas gedung",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-terms",
+      "title": "Periksa durasi sewa, jam akses, dan biaya tambahan gedung",
+      "category": "Anggaran",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-food",
+      "title": "Konfirmasi menu, jumlah porsi, kursi, dan meja tamu",
+      "category": "Konsumsi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-guests",
+      "title": "Susun daftar tamu dari kedua keluarga",
+      "category": "Tamu",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-admin",
+      "title": "Siapkan administrasi pernikahan",
+      "category": "Administrasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-outfit",
+      "title": "Jadwalkan fitting busana dan konsultasi makeup",
+      "category": "Penampilan",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-rundown",
+      "title": "Susun rundown bersama vendor dan pengelola gedung",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "hall-crew",
+      "title": "Bagi tanggung jawab keluarga dan koordinator acara",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    }
+  ],
+  "guests": [],
+  "timeline": [],
+  "notes": [
+    {
+      "id": "hall-compare",
+      "title": "Catat penawaran gedung",
+      "body": "Gunakan lampiran anggaran untuk menyimpan penawaran dan rincian biaya setiap kebutuhan. Pastikan fasilitas dan jumlah katering yang termasuk dalam paket sebelum menambahkan biaya terpisah.",
+      "author": "Bersama"
+    },
+    {
+      "id": "hall-target",
+      "title": "Target awal 300 orang",
+      "body": "Kapasitas paket pada brosur dapat lebih besar daripada target tamu kalian. Konfirmasikan apakah jumlah porsi dan harga paket dapat disesuaikan.",
+      "author": "Bersama"
+    }
+  ]
+}

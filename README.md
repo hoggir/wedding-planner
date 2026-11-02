@@ -16,7 +16,7 @@ npm start
 
 Buka **http://localhost:4310**. Untuk pengembangan dengan pembaruan tampilan langsung, gunakan `npm run dev`.
 
-Saat pertama dijalankan, server menyalin tiga rencana contoh dari **`data/examples/`** ke file JSON lokal yang belum ada. File rencana yang sudah ada tetap dipertahankan. Repositori berisi kode, katalog vendor, dan data contoh; data rencana pribadi (`data/wedding.json`, `data/wedding-gedung.json`, `data/lamaran.json`), backup, serta file unggahan dikecualikan dari Git.
+Repositori menyertakan rencana yang sudah diedit di **`data/wedding.json`**, **`data/wedding-gedung.json`**, dan **`data/lamaran.json`**. Saat file rencana belum ada, server menyalin rencana contoh dari **`data/examples/`**; file yang sudah ada tetap dipertahankan. Ketiga JSON rencana ikut dilacak Git, sedangkan backup dan file unggahan tetap dikecualikan. Karena repositori publik, isi JSON rencana dapat dibaca publik. Referensi lampiran tetap tersimpan dalam JSON, tetapi file unggahan hanya tersedia pada perangkat asal.
 
 ## Dipakai berdua
 

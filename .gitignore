@@ -5,9 +5,6 @@ data/uploads/
 *.log
 test-results/
 playwright-report/
-data/wedding.json
-data/wedding-gedung.json
-data/lamaran.json
 .env
 .env.*
 .DS_Store

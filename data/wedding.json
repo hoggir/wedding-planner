@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "wedding": {
+    "partnerOne": "Kamu",
+    "partnerTwo": "Pasanganmu",
+    "date": "",
+    "location": "Di rumah",
+    "guestTarget": 300,
+    "budgetTarget": 0
+  },
+  "package": {
+    "name": "Silver · In home",
+    "vendor": "Nikah Murah Karanganyar",
+    "price": 18500000,
+    "groups": [
+      {
+        "title": "Rias & busana",
+        "items": [
+          "Makeup akad dan resepsi, termasuk retouch",
+          "Sepasang busana akad dan resepsi",
+          "Melati pengantin asli, melati ibu dan besan",
+          "Aksesori lengkap",
+          "Makeup 2 ibu dan jarik, 2 beskap bapak",
+          "Bonus: makeup dan busana 2 penjaga kado",
+          "Bonus: hand bouquet, softlens normal, fake nail art"
+        ]
+      },
+      {
+        "title": "Dekorasi",
+        "items": [
+          "Dekor 6–8 meter dengan tambahan kain",
+          "Meja dan kursi akad, kursi pengantin",
+          "Lighting standar dan panggung",
+          "Nama atau inisial pasangan",
+          "Welcome sign, welcome gate, 2 stand foto"
+        ]
+      },
+      {
+        "title": "Dokumentasi",
+        "items": [
+          "Fotografer dan unlimited foto",
+          "112 cetak 4R, 2 cetak 10R",
+          "1 cetak 12RL dan figura, 1 album magnetic",
+          "File edit, flashdisk 16 GB, tautan Google Drive"
+        ]
+      },
+      {
+        "title": "Video shooting",
+        "items": [
+          "2–3 kamera, HD 1080",
+          "Live streaming YouTube",
+          "4 TV di lokasi dan flashdisk",
+          "Video cinematic tidak tercantum dalam Silver"
+        ]
+      },
+      {
+        "title": "Tenda & sound",
+        "items": [
+          "2 set tenda/kajang, plafon",
+          "Brosur mencantumkan 16 × 24 m; konfirmasi ukuran ke vendor",
+          "Sound system 1 hari",
+          "Monitor panggung, speaker aktif, sidefill, center, genset"
+        ]
+      },
+      {
+        "title": "Adat & hiburan",
+        "items": [
+          "1 panggih manten, 1 MC pambiworo",
+          "Pisang raja jejer, kembar mayang, janur kuning, kelapa, blarak",
+          "Panggung hiburan dan CS ringkes",
+          "Keyboard, ketipung, 2 penyanyi, 1 MC hiburan"
+        ]
+      }
+    ]
+  },
+  "packagePaid": 0,
+  "expenses": [
+    {
+      "name": "Katering tamu",
+      "category": "Konsumsi",
+      "quantity": 330,
+      "unitPrice": 25000,
+      "paid": 0,
+      "status": "estimate",
+      "note": "Simulasi 300 tamu + cadangan 10%. Brosur menyebut katering mulai Rp20.000; menu, porsi keluarga/kru, dan harga final perlu dikonfirmasi.",
+      "id": "catering"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "choose-package",
+      "title": "Pilih paket Silver untuk acara di rumah",
+      "category": "Vendor",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": true,
+      "priority": "normal"
+    },
+    {
+      "id": "set-date",
+      "title": "Sepakati tanggal pernikahan dengan keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "vendor-confirm",
+      "title": "Konfirmasi harga Silver dan ketersediaan tanggal",
+      "category": "Vendor",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "budget-target",
+      "title": "Tentukan batas anggaran bersama",
+      "category": "Anggaran",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "guest-list",
+      "title": "Susun daftar tamu dari kedua keluarga",
+      "category": "Tamu",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "catering-confirm",
+      "title": "Pilih menu dan minta penawaran katering",
+      "category": "Konsumsi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "home-survey",
+      "title": "Survei rumah untuk tenda, listrik, parkir, dan alur tamu",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "chairs",
+      "title": "Konfirmasi kebutuhan kursi, meja, dan alat saji",
+      "category": "Perlengkapan",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "admin",
+      "title": "Siapkan dokumen dan proses administrasi pernikahan",
+      "category": "Administrasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "rundown",
+      "title": "Susun rundown dan bagi tanggung jawab keluarga",
+      "category": "Acara",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "outfit",
+      "title": "Jadwalkan fitting busana dan konsultasi makeup",
+      "category": "Penampilan",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    },
+    {
+      "id": "neighbors",
+      "title": "Koordinasi lingkungan dan rencana jika hujan",
+      "category": "Lokasi",
+      "owner": "Bersama",
+      "dueDate": "",
+      "done": false,
+      "priority": "normal"
+    }
+  ],
+  "guests": [],
+  "timeline": [],
+  "notes": [
+    {
+      "id": "package-reminder",
+      "title": "Yang perlu dicek di luar paket",
+      "body": "Katering, WO, kursi dan meja tamu, undangan, souvenir, mahar, seserahan, serta administrasi tidak tercantum pada halaman Silver. Konfirmasi kebutuhan dan biaya tambahan sebelum booking.",
+      "author": "Bersama"
+    },
+    {
+      "id": "guest-reminder",
+      "title": "300 tamu, bukan 300 undangan",
+      "body": "Target awal adalah 300 orang. Gunakan kolom jumlah orang saat menambah keluarga atau pasangan ke daftar tamu agar kebutuhan konsumsi lebih akurat.",
+      "author": "Bersama"
+    }
+  ]
+}
