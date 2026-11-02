@@ -87,11 +87,12 @@
       "name": "Makeup wanita",
       "category": "Penampilan",
       "quantity": 1,
-      "unitPrice": 500000,
+      "unitPrice": 300000,
       "paid": 0,
       "status": "estimate",
       "note": "Mau cari vendor makeup atau make up sendiri?",
       "vendor": "",
+      "taskIds": [],
       "contacts": {},
       "id": "a3574ec3-2df6-4485-a69f-aa28dac7e31c"
     },
